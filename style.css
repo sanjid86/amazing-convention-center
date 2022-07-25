@@ -1,0 +1,39 @@
+.carousel-item img {
+    height: 80vh;
+    width: 100vw;
+    object-fit: cover;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon{
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  
+  /* Start Fearture Section  */
+  .feature-body {
+    position: relative;
+  }
+  .fa-gift{
+    color: rgb(224, 18, 18);
+    font-size: 16px;
+  }
+  .toast {
+    width: 220px;
+    height: 40px;
+    border-left: 3px solid rgb(17, 35, 197);
+    position: absolute;
+    top: 40%;
+    right: 5px;
+  }
+  .height-card-3{
+      height: 85%;
+  }
+  .toast-hot{
+      position: relative;
+      bottom: 25px;
+      left: 160px;
+
+  }
+  /* Start Fearture Section  */
+  
